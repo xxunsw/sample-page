@@ -9,4 +9,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 >Now it's time to build your own website to showcase your work.  
 >To create a website on GitHub Pages is very easy.
 
->
+>This is written in markdown language. 
+>Click this link to accept your group assignment 
+
