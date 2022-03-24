@@ -14,8 +14,9 @@ This is written in markdown language.
 * Click [4001 link](https://classroom.github.com/a/ggiq0YzO) to accept your group assignment.
 * Click [5100 link]() to accept your group assignment 
 
-#### Follow the ![guide doc](Doc1.pdf) to submit your work. 
+#### Follow the [guide doc](Doc1.pdf) to submit your work. 
 ---
 >Be creative! Feel free to link to embed your [data](player_data_salaries_2020.csv), [code](sample-data-clean.ipynb), [image](ACC.png) here
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
+![](Actuarial.gif)
