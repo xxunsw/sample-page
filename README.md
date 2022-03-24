@@ -10,5 +10,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 >To create a website on GitHub Pages is very easy.
 
 >This is written in markdown language. 
->Click [4001 link](https://classroom.github.com/a/2z80kbjP)to accept your group assignment 
+>Click [4001 link](https://classroom.github.com/a/2z80kbjP) to accept your group assignment 
 
